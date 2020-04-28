@@ -19,32 +19,32 @@ var friendsArray = [
         name:"Aladdin",
         photo:"https://vignette.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest/scale-to-width-down/515?cb=20190829033153",
         scores:[
-            5,
-            1,
+            3,
             4,
-            4,
-            5,
             1,
+            3,
+            5,
+            5,
+            3,
             2,
             5,
-            4,
-            1
+            5
           ]
       },
       {
         name:"Kristoff Bjorgman",
         photo:"https://vignette.wikia.nocookie.net/disney/images/b/b4/Profile_-_Kristoff.jpeg/revision/latest/scale-to-width-down/516?cb=20190423104042",
         scores:[
-            5,
             1,
-            4,
-            4,
             5,
+            2,
+            4,
+            3,
             1,
             2,
-            5,
-            4,
-            1
+            2,
+            3,
+            5
           ]
       },
       {
@@ -52,31 +52,31 @@ var friendsArray = [
         photo:"https://e00-telva.uecdn.es/assets/multimedia/imagenes/2018/08/14/15342482085967.jpg",
         scores:[
             5,
-            1,
-            4,
-            4,
             5,
-            1,
             2,
-            5,
             4,
-            1
+            5,
+            3,
+            2,
+            4,
+            1,
+            5
           ]
       },
       {
         name:"Moana",
         photo:"https://vignette.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033",
         scores:[
+            3,
             5,
+            2,
             1,
             4,
-            4,
-            5,
-            1,
+            2,
+            3,
             2,
             5,
-            4,
-            1
+            4
           ]
       },
       {
@@ -84,15 +84,15 @@ var friendsArray = [
         photo:"https://vignette.wikia.nocookie.net/disney/images/1/1b/Profile_-_Belle.jpeg/revision/latest/scale-to-width-down/516?cb=20190312024430",
         scores:[
             5,
-            1,
-            4,
-            4,
             5,
             1,
+            4,
+            4,
+            3,
+            4,
             2,
-            5,
-            4,
-            1
+            3,
+            2
           ]
       },
   ];
