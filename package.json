@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennistonc/FriendFinder.git"
+  },
+  "author": "Catherine Denniston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennistonc/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/dennistonc/FriendFinder#readme"
+}

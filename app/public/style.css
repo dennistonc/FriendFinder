@@ -1,0 +1,66 @@
+body {
+    background-color: #D6DCD7;
+    color: #011627;
+}
+
+.container {
+    background-color: #D6DCD7;
+    color: #011627;
+}
+
+.jumbotron {
+    background-color: #03CEA4;
+    color: #FDFFFC;
+}
+
+#homeButton {
+    background-color: #FB4D3D;
+    color: #FDFFFC;
+}
+
+#homeButton:hover {
+    background-color: rgb(201, 47, 33);
+    color: #FDFFFC;
+}
+
+p {
+    color: #011627;
+}
+
+a {
+    color: #FB4D3D;
+}
+
+a:hover {
+    color: rgb(201, 47, 33);
+}
+
+#submit {
+    background-color: #FB4D3D;
+    color: #FDFFFC;
+    border-style: none;
+}
+
+#submit:hover {
+    background-color: rgb(201, 47, 33);
+    color: #FDFFFC;
+    border-style: none;
+}
+
+#submit:active {
+    background-color: rgb(201, 47, 33);
+    color: #FDFFFC;
+    border-style: none;
+}
+
+#results-modal {
+    background-color: #FDFFFC;
+    color: #03CEA4;
+}
+
+/* fixing the broken modal header? */
+#modalTitle {
+    display: inline;
+    width: 100%;
+    text-align: left;
+}
