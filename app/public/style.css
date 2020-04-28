@@ -16,11 +16,13 @@ body {
 #homeButton {
     background-color: #FB4D3D;
     color: #FDFFFC;
+    border-style: none;
 }
 
 #homeButton:hover {
     background-color: rgb(201, 47, 33);
     color: #FDFFFC;
+    border-style: none;
 }
 
 p {
@@ -56,6 +58,24 @@ a:hover {
 #results-modal {
     background-color: #FDFFFC;
     color: #03CEA4;
+}
+
+#closeButton {
+    background-color: #FB4D3D;
+    color: #FDFFFC;
+    border-style: none;
+}
+
+#closeButton:hover {
+    background-color: rgb(201, 47, 33);
+    color: #FDFFFC;
+    border-style: none;
+}
+
+#closeButton:active {
+    background-color: rgb(201, 47, 33);
+    color: #FDFFFC;
+    border-style: none;
 }
 
 /* fixing the broken modal header? */
