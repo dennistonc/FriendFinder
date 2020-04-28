@@ -10,4 +10,4 @@ This full-stack site will take in results from users' surveys, then compare thei
 
 Express is used in this app to handle api routing. It uses API get requests to get the url and then post the results in json format. The information collected from the user via survey, is then compared the users answers against a database of other users, and uses the difference to compare and find a Best Match. The closest match will be the user with the least amount of difference.
 
-View project here! 
+View project here! https://mighty-meadow-72203.herokuapp.com/
