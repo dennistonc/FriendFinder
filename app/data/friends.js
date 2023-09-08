@@ -33,7 +33,7 @@ var friendsArray = [
       },
       {
         name:"Kristoff Bjorgman",
-        photo:"https://vignette.wikia.nocookie.net/disney/images/b/b4/Profile_-_Kristoff.jpeg/revision/latest/scale-to-width-down/516?cb=20190423104042",
+        photo:"https://lumiere-a.akamaihd.net/v1/images/ct_frozen_kristoff_18466_dd7ff541.jpeg?region=0%2C0%2C600%2C600",
         scores:[
             1,
             5,

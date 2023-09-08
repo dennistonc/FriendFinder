@@ -78,9 +78,16 @@ a:hover {
     border-style: none;
 }
 
+.modal-header .close {
+    padding: none;
+    margin: none;
+    display: none;
+}
+
 /* fixing the broken modal header? */
 #modalTitle {
     display: inline;
     width: 100%;
     text-align: left;
 }
+

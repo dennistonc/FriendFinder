@@ -168,7 +168,7 @@
         <!-- Modal content-->
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal">×</button>
+                <!-- <button type="button" class="close" data-dismiss="modal">×</button> -->
                 <h2 class="modal-title" id="modalTitle"><strong>Best Match</strong></h2>
             </div>
             <div class="modal-body">
@@ -189,7 +189,7 @@
     <script>
     $("#submit").on("click", function (event) {
         event.preventDefault();
-            
+    
     // To ensure all form fields have been filled out
     function validateUser() {
         var isValid = true;
@@ -228,6 +228,14 @@
         } else {
             alert("Please fill out all fields in the survey!")
         }
+
+        function clearSurvey() {
+        $("#closeButton").click(function () {
+          $(".form-control").val("")
+        }
+        )};
+
+        clearSurvey();
     });
     </script>
     
